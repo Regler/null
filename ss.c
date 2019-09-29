@@ -8,8 +8,8 @@
 #include<stdio.h>
 int main()
 {
-    int s = 0;
+    int s = 1;
     printf("%d ",s);
-    printf("asdas");
+    printf("aasdasdsdas");
     return 0 ;
 }
